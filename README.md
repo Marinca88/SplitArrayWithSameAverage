@@ -20,7 +20,7 @@ The solution  contains a test library. For testing it is  enough to  uncomment /
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](Screenshots/code.png)
 
 
 ## Acknowledgements
